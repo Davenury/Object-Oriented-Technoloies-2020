@@ -1,0 +1,16 @@
+util/PhotoSerializer.java
+ util.PhotoSerializer
+util/PhotoProcessor.java
+ util.PhotoProcessor
+model/PhotoSize.java
+ model.PhotoSize
+model/Photo.java
+ model.Photo
+driver/DuckDuckGoDriver.java
+ driver.DuckDuckGoDriver
+util/PhotoDownloader.java
+ util.PhotoDownloader
+CrawlerApp.java
+ CrawlerApp
+PhotoCrawler.java
+ PhotoCrawler

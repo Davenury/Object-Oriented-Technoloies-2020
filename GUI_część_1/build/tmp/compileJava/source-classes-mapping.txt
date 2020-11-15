@@ -1,0 +1,15 @@
+util/PhotoSerializer.java
+ util.PhotoSerializer
+model/Gallery.java
+ model.Gallery
+GalleryApp.java
+ GalleryApp
+controller/GalleryController.java
+ controller.GalleryController
+ controller.GalleryController$1
+util/PhotoDownloader.java
+ util.PhotoDownloader
+driver/DuckDuckGoDriver.java
+ driver.DuckDuckGoDriver
+model/Photo.java
+ model.Photo
